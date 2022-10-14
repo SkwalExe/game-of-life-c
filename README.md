@@ -87,7 +87,7 @@ This file contains all the logic of the game of life
 ```bash
 # 📂 game-of-life-c
 make uninstall
-# This will just delete /usr/bin/
+# This will just delete /usr/bin/golc
 ```
 
 # final
